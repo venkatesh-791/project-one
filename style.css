@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#main{
+    width: 100%;   
+}
+.firstcontainer{
+    
+    display: grid;    
+   align-content: center;   
+    grid-template-columns: 20% auto 20%;   
+    background-color: black; 
+
+}
+.first{
+    background-color: black;
+    grid-template-columns: 1fr;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 150px;
+    line-height: 40px; 
+}
+.browse{
+    color: white;
+    
+    
+}
+.how{
+    color: white;
+}
+.sign{
+    text-align: center;
+    width: 75px;
+    height: 35px;
+    background-color: rgb(88, 165, 88);
+    color:white;
+   
+}
+
+.second{
+    background-color:  rgb(48, 70, 16);
+    height: 350px;
+}
+.third{
+    background-color: re d;
+}
+.fourth{
+    background-color: rebeccapurple;
+}
+.fifth{
+    background-color: yellow;
+    
+}
+.a{
+    display: grid;
+}
+.one{
+
+}

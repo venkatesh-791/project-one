@@ -1,0 +1,9 @@
+.container--wrapper{
+    grid-template-columns: 10% auto 10%;
+}
+.content--wrapper{
+    grid-template-columns: 1fr;
+}
+.a{
+    display: grid;
+}

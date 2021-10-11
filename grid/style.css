@@ -1,0 +1,18 @@
+body{
+    background-color: lightcyan;
+}
+.header-top{
+    background-color: rgb(212, 196, 184);
+}
+.header-bottom{
+    background-color: rgb(161, 113, 75);
+}
+.main-body{ 
+    background-color: rgb(159, 179, 161);
+}
+.footer-top{
+    background-color: rgb(132, 203, 206);
+}
+.footer-bottom{
+    background-color: rgb(152, 185, 120);
+}
